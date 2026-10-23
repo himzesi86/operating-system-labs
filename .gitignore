@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.exe
+Linux可执行文件/
+*.zip

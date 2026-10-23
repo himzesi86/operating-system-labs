@@ -1,0 +1,54 @@
+AGING ALGORITHM PAGING SIMULATION RESULTS
+============================================================
+Total accesses: 20000
+Frame range tested: 1-8
+
+DETAILED STATISTICS:
+
+Number of Frames: 1
+  Total Page Faults: 19255
+  Average Fault Rate: 962.75 / 1000 accesses
+  Fault Percentage: 96.28%
+  Faults per 1000 accesses: [959, 965, 964, 968, 959, 961, 966, 962, 967, 961, 969, 964, 957, 963, 964, 954, 957, 962, 973, 959, 1]
+
+Number of Frames: 2
+  Total Page Faults: 18454
+  Average Fault Rate: 922.70 / 1000 accesses
+  Fault Percentage: 92.27%
+  Faults per 1000 accesses: [908, 928, 916, 923, 925, 917, 921, 923, 934, 920, 935, 920, 924, 936, 932, 910, 909, 919, 938, 915, 1]
+
+Number of Frames: 3
+  Total Page Faults: 17662
+  Average Fault Rate: 883.10 / 1000 accesses
+  Fault Percentage: 88.31%
+  Faults per 1000 accesses: [878, 898, 879, 880, 889, 877, 885, 872, 884, 868, 900, 883, 890, 897, 894, 866, 864, 878, 901, 878, 1]
+
+Number of Frames: 4
+  Total Page Faults: 16912
+  Average Fault Rate: 845.60 / 1000 accesses
+  Fault Percentage: 84.56%
+  Faults per 1000 accesses: [844, 864, 851, 854, 845, 844, 849, 830, 842, 833, 865, 847, 842, 855, 857, 831, 822, 838, 861, 837, 1]
+
+Number of Frames: 5
+  Total Page Faults: 16141
+  Average Fault Rate: 807.05 / 1000 accesses
+  Fault Percentage: 80.70%
+  Faults per 1000 accesses: [804, 832, 816, 818, 801, 807, 812, 790, 805, 805, 834, 806, 800, 818, 817, 786, 781, 806, 812, 790, 1]
+
+Number of Frames: 6
+  Total Page Faults: 15418
+  Average Fault Rate: 770.90 / 1000 accesses
+  Fault Percentage: 77.09%
+  Faults per 1000 accesses: [764, 792, 792, 789, 774, 770, 779, 757, 785, 761, 794, 763, 744, 786, 782, 752, 744, 770, 770, 749, 1]
+
+Number of Frames: 7
+  Total Page Faults: 14640
+  Average Fault Rate: 732.00 / 1000 accesses
+  Fault Percentage: 73.20%
+  Faults per 1000 accesses: [712, 761, 757, 740, 730, 724, 731, 717, 740, 724, 759, 721, 720, 753, 731, 716, 711, 741, 736, 715, 1]
+
+Number of Frames: 8
+  Total Page Faults: 13893
+  Average Fault Rate: 694.65 / 1000 accesses
+  Fault Percentage: 69.47%
+  Faults per 1000 accesses: [670, 726, 725, 708, 690, 687, 698, 687, 705, 683, 706, 679, 684, 706, 695, 687, 678, 704, 697, 677, 1]
